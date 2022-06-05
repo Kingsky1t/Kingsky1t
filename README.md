@@ -17,6 +17,7 @@ and welcome to my profile
   <a href="https://www.instagram.com/shaunak_chandra/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Kingsky1t&style=flat-square&color=blue" alt=""/>
 </div>
 
 
